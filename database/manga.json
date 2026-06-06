@@ -1,0 +1,44 @@
+{
+  "manga_id": "dragonslayers-peerless-regression",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "Return of the Bloodthirsty Sword God (Alternatif), Regressor of the Fallen Dragon",
+  "status": "Ongoing",
+  "author": "N/A (Dummy Author)",
+  "artist": "N/A (Dummy Artist)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Regression",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Kemanusiaan telah mencapai ambang kehancuran akibat invasi Naga. Sang protagonis, pemburu naga terkuat yang kehilangan segalanya dan semua rekan seperjuangannya, akhirnya berhasil membunuh Raja Naga. Namun, sebagai gantinya, ia gugur. Saat ia membuka mata, ia menyadari bahwa ia telah kembali ke masa lalu sebelum kiamat terjadi. Dengan memori dan pengalaman dari kehidupan sebelumnya, ia bersumpah untuk mengubah takdir dan menyelamatkan dunia.",
+  "cover_url": "https://raw.githubusercontent.com/username/monstacomic-assets/main/covers/dragonslayers-peerless-regression.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Akhir dan Permulaan Baru",
+      "pages": [
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayers-peerless-regression/ch-001/001.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayers-peerless-regression/ch-001/002.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayers-peerless-regression/ch-001/003.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayers-peerless-regression/ch-001/004.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayers-peerless-regression/ch-001/005.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Kebangkitan Sang Pemburu",
+      "pages": [
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayers-peerless-regression/ch-002/001.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayers-peerless-regression/ch-002/002.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayers-peerless-regression/ch-002/003.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayers-peerless-regression/ch-002/004.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayers-peerless-regression/ch-002/005.jpg"
+      ]
+    }
+  ]
+}
